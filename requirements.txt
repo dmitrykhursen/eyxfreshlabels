@@ -1,6 +1,6 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-lxml==5.2.2
-streamlit
-pandas
-plotly
+streamlit>=1.36
+pandas>=2.2
+plotly>=5.22
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
