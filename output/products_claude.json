@@ -1,0 +1,3589 @@
+[
+  {
+    "product_id": "sal041",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-gore-tex-sal041/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6 Gore-Tex",
+    "brand": "Salomon",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-3salomon-04.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu007k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-510-blu007k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "510",
+    "brand": "Blundstone",
+    "current_price": 4070.0,
+    "original_price": 4790.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595584-krivky-1bluntstone-6.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee030k",
+    "url": "https://www.freshlabels.cz/en/products/keen-seek-women-kee030k/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Seek Women",
+    "brand": "Keen",
+    "current_price": 4499.0,
+    "original_price": 4499.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667912-kee030k-6.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu003k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-1306-blu003k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "1306",
+    "brand": "Blundstone",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595573-vyvazeni-barev-1bluntstone-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu035",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-1308-blu035/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "1308",
+    "brand": "Blundstone",
+    "current_price": 4240.0,
+    "original_price": 4990.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/661172-vrstva-1blunt.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee020",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-men-kee020/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Men",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641689-vrstva-49keen.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee032k",
+    "url": "https://www.freshlabels.cz/en/products/keen-roam-women-kee032k/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Roam Women",
+    "brand": "Keen",
+    "current_price": 3799.0,
+    "original_price": 3799.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Violet"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667899-kee032k-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee031k",
+    "url": "https://www.freshlabels.cz/en/products/keen-roam-men-kee031k/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Roam Men",
+    "brand": "Keen",
+    "current_price": 3799.0,
+    "original_price": 3799.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667891-kee031k-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu009k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-558-blu009k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "558",
+    "brand": "Blundstone",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595585-krivky-1bluntstone-7.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "sal009",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-4-og-sal009/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-4 OG",
+    "brand": "Salomon",
+    "current_price": 4590.0,
+    "original_price": 4590.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "bestseller",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/584880-vrstva-29salomon-03.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee029k",
+    "url": "https://www.freshlabels.cz/en/products/keen-seek-men-kee029k/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Seek Men",
+    "brand": "Keen",
+    "current_price": 4499.0,
+    "original_price": 4499.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Red"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667905-kee029k-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "sal002",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal002/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 4390.0,
+    "original_price": 4390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-6salomon-04.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "bir532",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-jackson-20-bir532/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jackson 2.0",
+    "brand": "Birkenstock",
+    "current_price": 4580.0,
+    "original_price": 5390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641707-vrstva-12birkeny-1-641707.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee033",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-zionic-men-kee033/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Zionic Men",
+    "brand": "Keen",
+    "current_price": 3990.0,
+    "original_price": 3990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667917-kee033-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee005",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-women-kee005/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Uneek Women",
+    "brand": "Keen",
+    "current_price": 2990.0,
+    "original_price": 2990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-23keen-1-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "sal028",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-gore-tex-sal028/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6 Gore-Tex",
+    "brand": "Salomon",
+    "current_price": 4240.0,
+    "original_price": 4990.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/665448-vrstva-2salomon-3-665448.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee025",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-zionic-men-kee025/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Zionic Men",
+    "brand": "Keen",
+    "current_price": 3990.0,
+    "original_price": 3990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666877-vrstva-18keen-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu005k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-500-blu005k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "500",
+    "brand": "Blundstone",
+    "current_price": 4070.0,
+    "original_price": 4790.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595583-vyvazeni-barev-1bluntstone-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu002k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-63-blu002k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "63",
+    "brand": "Blundstone",
+    "current_price": 4070.0,
+    "original_price": 4790.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/602799-063blndstn-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee024",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-women-kee024/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Jasper Women",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666870-vrstva-11keen-1-666870.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "sal034",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal034/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 4390.0,
+    "original_price": 4390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-15boty-26.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee022",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-women-kee022/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Uneek Women",
+    "brand": "Keen",
+    "current_price": 2540.0,
+    "original_price": 2990.0,
+    "discount_pct": 15.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/657652-629602-vrstva-1keen-1-629602.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "sal135",
+    "url": "https://www.freshlabels.cz/en/products/salomon-rx-marie-jeanne-sal135/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "RX Marie-Jeanne",
+    "brand": "Salomon",
+    "current_price": 3190.0,
+    "original_price": 3190.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666460-vrstva-1salomon-666460.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu031",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-2130-blu031/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "2130",
+    "brand": "Blundstone",
+    "current_price": 4240.0,
+    "original_price": 4990.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/634253-vrstva-102-blunt.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "bir367",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-bf-triples-bir367/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona BF Triples",
+    "brand": "Birkenstock",
+    "current_price": 2120.0,
+    "original_price": 2490.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/krivky-1birken-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee028",
+    "url": "https://www.freshlabels.cz/en/products/keen-ks-mino-women-kee028/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "KS Mino Women",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666890-vrstva-31keen-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "fu007",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-fu007/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0",
+    "brand": "FUBUKI",
+    "current_price": 3140.0,
+    "original_price": 3690.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Pink"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-18-subuki-3-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "kee034",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-zionic-men-kee034/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Zionic Men",
+    "brand": "Keen",
+    "current_price": 3990.0,
+    "original_price": 3990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/667923-kee034-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "blu015",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-2115-blu015/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "2115",
+    "brand": "Blundstone",
+    "current_price": 3830.0,
+    "original_price": 4790.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595576-vrstva-6bluntstone-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "fu009",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-fu009/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0",
+    "brand": "FUBUKI",
+    "current_price": 2950.0,
+    "original_price": 3690.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Red"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644128-vrstva-8fubuki.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "ve467",
+    "url": "https://www.freshlabels.cz/en/products/veja-volley-ot-leather-ve467/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Volley O.T. Leather",
+    "brand": "Veja",
+    "current_price": 2800.0,
+    "original_price": 3290.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644320-img-1668veji.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "fu001",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-fu001/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0",
+    "brand": "FUBUKI",
+    "current_price": 3140.0,
+    "original_price": 3690.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/605470-vrstva-22fubuki-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:47.692842+00:00"
+  },
+  {
+    "product_id": "ve460",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-leather-ve460/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Leather",
+    "brand": "Veja",
+    "current_price": 2880.0,
+    "original_price": 3390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641226-img-4160veja.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "wq005",
+    "url": "https://www.freshlabels.cz/en/products/winqs-zerofly-wq005/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Zerofly",
+    "brand": "WINQS",
+    "current_price": 3310.0,
+    "original_price": 3890.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/578859-img-8791-kopie-winqs-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "kee026",
+    "url": "https://www.freshlabels.cz/en/products/keen-ks-mino-men-kee026/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "KS Mino Men",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666884-vrstva-25keen-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "kee023",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-rocks-sp-men-kee023/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Rocks SP Men",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/666863-vrstva-4keen-1-666863.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ns135",
+    "url": "https://www.freshlabels.cz/en/products/novesta-star-dribble-ns135/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Star Dribble",
+    "brand": "Novesta",
+    "current_price": 1610.0,
+    "original_price": 1890.0,
+    "discount_pct": 14.8,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/586493-vrstva-9boty-09.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal076",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-gore-tex-sal076/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO Gore-Tex",
+    "brand": "Salomon",
+    "current_price": 5390.0,
+    "original_price": 5390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-10salomon-02.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "fu006",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-fu006/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0",
+    "brand": "FUBUKI",
+    "current_price": 2950.0,
+    "original_price": 3690.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Orange"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/612780-vrstva-17-subuki-3-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ve456",
+    "url": "https://www.freshlabels.cz/en/products/veja-paulistana-alveomesh-ve456/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Paulistana Alveomesh",
+    "brand": "Veja",
+    "current_price": 3140.0,
+    "original_price": 3690.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641208-img-4143veja.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ns141",
+    "url": "https://www.freshlabels.cz/en/products/novesta-s-chukka-suede-ns141/",
+    "category": "shoes",
+    "category_path": "Shoes > Low shoes",
+    "name": "S. Chukka Suede",
+    "brand": "Novesta",
+    "current_price": 1950.0,
+    "original_price": 2290.0,
+    "discount_pct": 14.8,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/599126-vrstva-15-novesta-1-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "wq006",
+    "url": "https://www.freshlabels.cz/en/products/winqs-zerofly-wq006/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Zerofly",
+    "brand": "WINQS",
+    "current_price": 3310.0,
+    "original_price": 3890.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "recycled",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "bestseller",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/578878-urovne-5-winqs-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal136",
+    "url": "https://www.freshlabels.cz/en/products/salomon-rx-marie-jeanne-sal136/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "RX Marie-Jeanne",
+    "brand": "Salomon",
+    "current_price": 3190.0,
+    "original_price": 3190.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/665455-vrstva-2salomon-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "kee001",
+    "url": "https://www.freshlabels.cz/en/products/keen-yogui-women-kee001/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Yogui Women",
+    "brand": "Keen",
+    "current_price": 1610.0,
+    "original_price": 1890.0,
+    "discount_pct": 14.8,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/587531-vrstva-26keen-6-7.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "blu033",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-2528-blu033/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "2528",
+    "brand": "Blundstone",
+    "current_price": 4390.0,
+    "original_price": 5490.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644293-vrstva-1bluntstone.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ns118",
+    "url": "https://www.freshlabels.cz/en/products/novesta-star-master-ns118/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Star Master",
+    "brand": "Novesta",
+    "current_price": 1180.0,
+    "original_price": 1690.0,
+    "discount_pct": 30.2,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "bestseller",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/586495-vrstva-10boty-10.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal118",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal118/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-WHISPER",
+    "brand": "Salomon",
+    "current_price": 3100.0,
+    "original_price": 3650.0,
+    "discount_pct": 15.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658199-vrstva-111salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal099",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-4-og-sal099/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-4 OG",
+    "brand": "Salomon",
+    "current_price": 3830.0,
+    "original_price": 4790.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636149-vrstva-1chrome-9.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ve465",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-bold-suede-ve465/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Bold Suede",
+    "brand": "Veja",
+    "current_price": 2880.0,
+    "original_price": 3390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "organic cotton",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644309-img-1677veji-644309.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal091",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal091/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT – Whisper",
+    "brand": "Salomon",
+    "current_price": 3220.0,
+    "original_price": 3790.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Yellow"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636175-vrstva-1salomon-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal134",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-gore-tex-sal134/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6 Gore-Tex",
+    "brand": "Salomon",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/665442-vrstva-2salomon-2-665442.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal133",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-pure-sal133/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-PU.RE",
+    "brand": "Salomon",
+    "current_price": 4240.0,
+    "original_price": 4990.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping",
+      "new"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/665437-vrstva-2salomon-1-665437.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal114",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal114/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 3730.0,
+    "original_price": 4390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658171-vrstva-86salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "blu034",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-566-blu034/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "566",
+    "brand": "Blundstone",
+    "current_price": 4410.0,
+    "original_price": 5190.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/656470-vrstva-1bluntstone-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "bir530",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-highwood-suede-leather-bir530/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "Highwood Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3670.0,
+    "original_price": 4590.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637576-vrstva-34birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal094",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-leather-sal094/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO Leather",
+    "brand": "Salomon",
+    "current_price": 4150.0,
+    "original_price": 5190.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636185-vrstva-3salomon-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "kee010",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-rocks-sp-men-kee010/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Rocks SP Men",
+    "brand": "Keen",
+    "current_price": 2550.0,
+    "original_price": 3190.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/623715-vrstva-4keen-1-623715.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "bir531",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-jackson-20-bir531/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jackson 2.0",
+    "brand": "Birkenstock",
+    "current_price": 4310.0,
+    "original_price": 5390.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641700-vrstva-5birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "bir529",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-utti-lace-suede-leather-bir529/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Utti Lace Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3890.0,
+    "original_price": 3890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637586-vrstva-44birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "tro065",
+    "url": "https://www.freshlabels.cz/en/products/tropicfeel-at-tro065/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "AT",
+    "brand": "Tropicfeel",
+    "current_price": 2630.0,
+    "original_price": 3290.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/626975-vrstva-25tropic-4-7b.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "tro045",
+    "url": "https://www.freshlabels.cz/en/products/tropicfeel-all-terrain-tro045/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "All-Terrain",
+    "brand": "Tropicfeel",
+    "current_price": 2300.0,
+    "original_price": 3290.0,
+    "discount_pct": 30.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/583645-odstin-a-sytost-2tropic-1-9-583645.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "sal111",
+    "url": "https://www.freshlabels.cz/en/products/salomon-x-alp-ltr-sal111/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "X-ALP LTR",
+    "brand": "Salomon",
+    "current_price": 3900.0,
+    "original_price": 4590.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Violet"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658114-vrstva-129salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "kee013",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-wk-men-kee013/",
+    "category": "shoes",
+    "category_path": "Shoes > Sandals",
+    "name": "Uneek WK Men",
+    "brand": "Keen",
+    "current_price": 2630.0,
+    "original_price": 3290.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/629610-vrstva-27keen-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ve464",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-bold-suede-ve464/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Bold Suede",
+    "brand": "Veja",
+    "current_price": 3390.0,
+    "original_price": 3390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644303-img-1677veji.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ve441",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-ve441/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo",
+    "brand": "Veja",
+    "current_price": 3390.0,
+    "original_price": 3390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/urovne-1veja-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "bir095",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-madrid-bf-bir095/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Madrid BF",
+    "brand": "Birkenstock",
+    "current_price": 1910.0,
+    "original_price": 2250.0,
+    "discount_pct": 15.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/631311-vrstva-55birkeny-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "wq009",
+    "url": "https://www.freshlabels.cz/en/products/winqs-zerofly-wq009/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Zerofly",
+    "brand": "WINQS",
+    "current_price": 3310.0,
+    "original_price": 3890.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/578888-urovne-5-winqs-01-578888.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "ve466",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-leather-ve466/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Leather",
+    "brand": "Veja",
+    "current_price": 3390.0,
+    "original_price": 3390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644316-img-1661veji.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:50.076651+00:00"
+  },
+  {
+    "product_id": "bir534",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-utti-lace-suede-leather-bir534/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Utti Lace Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3890.0,
+    "original_price": 3890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641723-vrstva-22birkeny-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir514",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-soft-footbed-birko-flor-bir514/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona Soft Footbed Birko-Flor",
+    "brand": "Birkenstock",
+    "current_price": 1990.0,
+    "original_price": 2490.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/631301-vrstva-63birkeny-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir489",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-sfb-leoi-bir489/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston SFB LEOI",
+    "brand": "Birkenstock",
+    "current_price": 3990.0,
+    "original_price": 3990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "bestseller",
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-7boty-08.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal113",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal113/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 3730.0,
+    "original_price": 4390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658166-vrstva-81salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal130",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal130/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 4390.0,
+    "original_price": 4390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "bestseller",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658213-vrstva-21salomon-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal116",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal116/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 4390.0,
+    "original_price": 4390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658183-vrstva-147salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal112",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-4-og-gtx-sal112/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-4 OG GTX",
+    "brand": "Salomon",
+    "current_price": 4070.0,
+    "original_price": 5090.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658164-vrstva-79salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "kee019",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-men-kee019/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Men",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641679-vrstva-38keen.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "ve462",
+    "url": "https://www.freshlabels.cz/en/products/veja-paulistana-alveomesh-ve462/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Paulistana Alveomesh",
+    "brand": "Veja",
+    "current_price": 3690.0,
+    "original_price": 3690.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641231-img-4143veja-641231.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "ve461",
+    "url": "https://www.freshlabels.cz/en/products/veja-volley-ot-leather-ve461/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Volley O.T. Leather",
+    "brand": "Veja",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641244-img-4166veja.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir528",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-suede-leather-bir528/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3890.0,
+    "original_price": 3890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637557-vrstva-15birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir525",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-highwood-suede-leather-bir525/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "Highwood Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3670.0,
+    "original_price": 4590.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637571-vrstva-29birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "blu029",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-2029-blu029/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "2029",
+    "brand": "Blundstone",
+    "current_price": 4410.0,
+    "original_price": 5190.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/632365-vrstva-1blu-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal110",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-skyline-sal110/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6 Skyline",
+    "brand": "Salomon",
+    "current_price": 3820.0,
+    "original_price": 4490.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "bestseller",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636692-l47977400-0-gho-xt-6-skyline-black-mapnghigh-ressalomon-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal098",
+    "url": "https://www.freshlabels.cz/en/products/salomon-x-alp-suede-sal098/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "X-Alp Suede",
+    "brand": "Salomon",
+    "current_price": 4070.0,
+    "original_price": 4790.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636134-vrstva-7chrome-8.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "onr182",
+    "url": "https://www.freshlabels.cz/en/products/on-cloudnova-x-onr182/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Cloudnova X",
+    "brand": "On",
+    "current_price": 3590.0,
+    "original_price": 4490.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/633360-vrstva-54on-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "kee015",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-wk-men-kee015/",
+    "category": "shoes",
+    "category_path": "Shoes > Sandals",
+    "name": "Uneek WK Men",
+    "brand": "Keen",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/629120-vrstva-2keen-1-629120.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "kee012",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-men-kee012/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Uneek Men",
+    "brand": "Keen",
+    "current_price": 2540.0,
+    "original_price": 2990.0,
+    "discount_pct": 15.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "recycled pet"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/626664-vrstva-4keen.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "ve382",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-canvas-ve382/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Canvas",
+    "brand": "Veja",
+    "current_price": 3090.0,
+    "original_price": 3090.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/584187-vrstva-24vej-1-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "wq004",
+    "url": "https://www.freshlabels.cz/en/products/winqs-zerofly-wq004/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Zerofly",
+    "brand": "WINQS",
+    "current_price": 3310.0,
+    "original_price": 3890.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "recycled",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/578839-urovne-4-winqs-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir523",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-wool-bir523/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston Wool",
+    "brand": "Birkenstock",
+    "current_price": 2920.0,
+    "original_price": 3250.0,
+    "discount_pct": 10.2,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/635058-vrstva-71-birkenstoc.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "onr186",
+    "url": "https://www.freshlabels.cz/en/products/on-cloudrock-low-wp-onr186/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Cloudrock Low WP",
+    "brand": "On",
+    "current_price": 4490.0,
+    "original_price": 4990.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636709-vrstva-1on.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal090",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal090/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT – Whisper",
+    "brand": "Salomon",
+    "current_price": 3790.0,
+    "original_price": 3790.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Violet"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636386-vrstva-22salomon-xx.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal012",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-sal012/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO",
+    "brand": "Salomon",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/584900-vrstva-30salomon-03.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "kee018",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-men-kee018/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Jasper Men",
+    "brand": "Keen",
+    "current_price": 2800.0,
+    "original_price": 3290.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "Violet"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/661182-vrstva-5keen-661182.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal115",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal115/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 3730.0,
+    "original_price": 4390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658176-vrstva-91salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "car011",
+    "url": "https://www.freshlabels.cz/en/products/cariuma-oca-therma-car011/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "OCA Therma",
+    "brand": "Cariuma",
+    "current_price": 3512.0,
+    "original_price": 4390.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/645985-vrstva-36cariuma.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir533",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-prescott-slip-on-women-bir533/",
+    "category": "shoes",
+    "category_path": "Shoes",
+    "name": "Prescott Slip On Women",
+    "brand": "Birkenstock",
+    "current_price": 4580.0,
+    "original_price": 5390.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641715-vrstva-21birkeny-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "blu032",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-2423-blu032/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "2423",
+    "brand": "Blundstone",
+    "current_price": 4190.0,
+    "original_price": 4190.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/634260-vrstva-403-blunt.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "ve458",
+    "url": "https://www.freshlabels.cz/en/products/veja-v-90-ot-leather-ve458/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "V-90 O.T. Leather",
+    "brand": "Veja",
+    "current_price": 3591.0,
+    "original_price": 3990.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/641220-img-4136veja.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "bir526",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-highwood-leather-bir526/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "Highwood Leather",
+    "brand": "Birkenstock",
+    "current_price": 4130.0,
+    "original_price": 4590.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637564-vrstva-22birkeny-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal104",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal104/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 4040.0,
+    "original_price": 4490.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Blue"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636195-vrstva-1salomon-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal097",
+    "url": "https://www.freshlabels.cz/en/products/salomon-x-alp-suede-sal097/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "X-Alp Suede",
+    "brand": "Salomon",
+    "current_price": 3830.0,
+    "original_price": 4790.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636139-vrstva-2chrome-8-636139.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "onr183",
+    "url": "https://www.freshlabels.cz/en/products/on-cloudsurfer-2-onr183/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Cloudsurfer 2",
+    "brand": "On",
+    "current_price": 4490.0,
+    "original_price": 4490.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [
+      "recycled"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/633366-vrstva-60on-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "kee011",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-men-kee011/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Uneek Men",
+    "brand": "Keen",
+    "current_price": 2093.0,
+    "original_price": 2990.0,
+    "discount_pct": 30.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [
+      "recycled pet"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/626671-vrstva-11keen.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal085",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-sal085/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO",
+    "brand": "Salomon",
+    "current_price": 3493.0,
+    "original_price": 4990.0,
+    "discount_pct": 30.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-14salomon-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:52.704610+00:00"
+  },
+  {
+    "product_id": "sal077",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-leather-sal077/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO Leather",
+    "brand": "Salomon",
+    "current_price": 5190.0,
+    "original_price": 5190.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/613006-vrstva-10salomon-03.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir524",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-bs-suede-leather-bir524/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston BS Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3890.0,
+    "original_price": 3890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Pink"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637453-vrstva-2wip-26.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal117",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal117/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-WHISPER",
+    "brand": "Salomon",
+    "current_price": 2920.0,
+    "original_price": 3650.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658191-vrstva-103salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal087",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal087/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT – Whisper",
+    "brand": "Salomon",
+    "current_price": 3790.0,
+    "original_price": 3790.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/617431-vrstva-18salomon-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "tro062",
+    "url": "https://www.freshlabels.cz/en/products/tropicfeel-at-tro062/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "AT",
+    "brand": "Tropicfeel",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Green"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/626978-vrstva-24tropic-4-7b.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "blu014k",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-587-blu014k/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "587",
+    "brand": "Blundstone",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595589-krivky-1bluntstone-8.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "kee021",
+    "url": "https://www.freshlabels.cz/en/products/keen-jasper-women-kee021/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Jasper Women",
+    "brand": "Keen",
+    "current_price": 2960.0,
+    "original_price": 3290.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/644292-vrstva-6keen-644292.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir503",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-eva-bir503/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona EVA",
+    "brand": "Birkenstock",
+    "current_price": 1390.0,
+    "original_price": 1390.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Pink"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/img-9715-kopiebir-1-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve356",
+    "url": "https://www.freshlabels.cz/en/products/veja-recife-logo-ve356/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Recife Logo",
+    "brand": "Veja",
+    "current_price": 3690.0,
+    "original_price": 3690.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/urovne-1-kopie-5botky-1-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir123",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-nl-sfb-bir123/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona NL SFB",
+    "brand": "Birkenstock",
+    "current_price": 2890.0,
+    "original_price": 2890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/a-0037-img-3129.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir097",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-bf-bir097/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona BF",
+    "brand": "Birkenstock",
+    "current_price": 2490.0,
+    "original_price": 2490.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/631248-vrstva-25birkeny.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir506",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-big-buckle-eva-bir506/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona Big Buckle EVA",
+    "brand": "Birkenstock",
+    "current_price": 1320.0,
+    "original_price": 1650.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/620908-vrstva-14bir-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir476",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-madrid-big-buckle-bir476/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Madrid Big Buckle",
+    "brand": "Birkenstock",
+    "current_price": 3250.0,
+    "original_price": 3250.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/620900-vrstva-9bir-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve443",
+    "url": "https://www.freshlabels.cz/en/products/veja-recife-logo-ve443/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Recife Logo",
+    "brand": "Veja",
+    "current_price": 2790.0,
+    "original_price": 3990.0,
+    "discount_pct": 30.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/597493-vrstva-3veja-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve442",
+    "url": "https://www.freshlabels.cz/en/products/veja-esplar-ve442/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Esplar",
+    "brand": "Veja",
+    "current_price": 2300.0,
+    "original_price": 3290.0,
+    "discount_pct": 30.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/597486-urovne-1veja-02.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve440",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-ve440/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo",
+    "brand": "Veja",
+    "current_price": 3140.0,
+    "original_price": 3490.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/597473-vrstva-3veja-02.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ns140",
+    "url": "https://www.freshlabels.cz/en/products/novesta-marathon-trail-ns140/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Marathon Trail",
+    "brand": "Novesta",
+    "current_price": 3480.0,
+    "original_price": 4090.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/599129-vrstva-10-novesta-1-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ns119",
+    "url": "https://www.freshlabels.cz/en/products/novesta-star-master-ns119/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Star Master",
+    "brand": "Novesta",
+    "current_price": 1110.0,
+    "original_price": 1590.0,
+    "discount_pct": 30.2,
+    "sizes_in_stock": [],
+    "colors": [
+      "Blue"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/599134-vrstva-10-novesta-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve436",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-canvas-ve436/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo Canvas",
+    "brand": "Veja",
+    "current_price": 2160.0,
+    "original_price": 3090.0,
+    "discount_pct": 30.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "organic cotton",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/584194-vrstva-24vej-1-4-584194.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve421",
+    "url": "https://www.freshlabels.cz/en/products/veja-volley-canvas-ve421/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Volley Canvas",
+    "brand": "Veja",
+    "current_price": 2300.0,
+    "original_price": 3290.0,
+    "discount_pct": 30.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "fair production",
+      "organic cotton",
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/599137-vrstva-12-veja-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal131",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-sal131/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6",
+    "brand": "Salomon",
+    "current_price": 3951.0,
+    "original_price": 4390.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "bestseller",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/658217-vrstva-11salomon-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "car004",
+    "url": "https://www.freshlabels.cz/en/products/cariuma-salvas-car004/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "SALVAS",
+    "brand": "Cariuma",
+    "current_price": 2872.0,
+    "original_price": 3590.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/632286-vrstva-59cariuma-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal109",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-6-skyline-sal109/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT-6 Skyline",
+    "brand": "Salomon",
+    "current_price": 3143.0,
+    "original_price": 4490.0,
+    "discount_pct": 30.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "bestseller",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/636687-l47876800-0-gho-xt-6-skyline-black-copnghigh-ressalomon-5.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal084",
+    "url": "https://www.freshlabels.cz/en/products/salomon-xt-whisper-sal084/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "XT – Whisper",
+    "brand": "Salomon",
+    "current_price": 3410.0,
+    "original_price": 3790.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-16salomon.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal056",
+    "url": "https://www.freshlabels.cz/en/products/salomon-speedcross-3-sal056/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Speedcross 3",
+    "brand": "Salomon",
+    "current_price": 3140.0,
+    "original_price": 3490.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/587021-vrstva-12salomon-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "onr180",
+    "url": "https://www.freshlabels.cz/en/products/on-cloudnova-2-onr180/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Cloudnova 2",
+    "brand": "On",
+    "current_price": 4490.0,
+    "original_price": 4490.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [
+      "recycled"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/633348-vrstva-42on-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal066",
+    "url": "https://www.freshlabels.cz/en/products/salomon-acs-pro-gore-tex-sal066/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "ACS PRO Gore-Tex",
+    "brand": "Salomon",
+    "current_price": 3843.0,
+    "original_price": 5490.0,
+    "discount_pct": 30.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Grey"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-2salomon-1-3.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "blu017",
+    "url": "https://www.freshlabels.cz/en/products/blundstone-585-blu017/",
+    "category": "shoes",
+    "category_path": "Shoes > Chelsea",
+    "name": "585",
+    "brand": "Blundstone",
+    "current_price": 4990.0,
+    "original_price": 4990.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/595582-vrstva-4bluntstone-4.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "kee016",
+    "url": "https://www.freshlabels.cz/en/products/keen-uneek-plt-mary-jane-kee016/",
+    "category": "shoes",
+    "category_path": "Shoes > Sandals",
+    "name": "Uneek PLT Mary Jane",
+    "brand": "Keen",
+    "current_price": 3190.0,
+    "original_price": 3990.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/629701-vrstva-4keen-oprava.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "fu003",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-low-fu003/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0 Low",
+    "brand": "FUBUKI",
+    "current_price": 2870.0,
+    "original_price": 3590.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-20fubuki-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "fu002",
+    "url": "https://www.freshlabels.cz/en/products/fubuki-niseko-30-low-fu002/",
+    "category": "shoes",
+    "category_path": "Shoes > Boots",
+    "name": "Niseko 3.0 Low",
+    "brand": "FUBUKI",
+    "current_price": 3050.0,
+    "original_price": 3590.0,
+    "discount_pct": 15.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/605460-vrstva-21fubuki-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "tro041",
+    "url": "https://www.freshlabels.cz/en/products/tropicfeel-all-terrain-tro041/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "All-Terrain",
+    "brand": "Tropicfeel",
+    "current_price": 2630.0,
+    "original_price": 3290.0,
+    "discount_pct": 20.1,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/583641-vyvazeni-barev-1tropic-1-9-583641.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir527",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-suede-leather-bir527/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3890.0,
+    "original_price": 3890.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Brown"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/637548-vrstva-5birkeny-637548.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir517",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-boston-suede-leather-bir517/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Boston Suede Leather",
+    "brand": "Birkenstock",
+    "current_price": 3375.0,
+    "original_price": 3750.0,
+    "discount_pct": 10.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/631284-vrstva-33birkeny-2.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "sal057",
+    "url": "https://www.freshlabels.cz/en/products/salomon-speedcross-3-sal057/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Speedcross 3",
+    "brand": "Salomon",
+    "current_price": 3490.0,
+    "original_price": 3490.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Black"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/587011-vrstva-5salomon-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "bir518",
+    "url": "https://www.freshlabels.cz/en/products/birkenstock-arizona-big-buckle-eva-bir518/",
+    "category": "shoes",
+    "category_path": "Shoes > Slippers",
+    "name": "Arizona Big Buckle EVA",
+    "brand": "Birkenstock",
+    "current_price": 1320.0,
+    "original_price": 1650.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Violet"
+    ],
+    "sustainability_labels": [],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/631259-vrstva-5birkeny.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:54.784831+00:00"
+  },
+  {
+    "product_id": "ve445",
+    "url": "https://www.freshlabels.cz/en/products/veja-volley-ot-leather-ve445/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Volley O.T. Leather",
+    "brand": "Veja",
+    "current_price": 3290.0,
+    "original_price": 3290.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/vrstva-10veja-01.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:56.671426+00:00"
+  },
+  {
+    "product_id": "wq007",
+    "url": "https://www.freshlabels.cz/en/products/winqs-zerofly-wq007/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Zerofly",
+    "brand": "WINQS",
+    "current_price": 3310.0,
+    "original_price": 3890.0,
+    "discount_pct": 14.9,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/578849-urovne-4-winqs-01-578849.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:56.671426+00:00"
+  },
+  {
+    "product_id": "car006",
+    "url": "https://www.freshlabels.cz/en/products/cariuma-toca-car006/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "TOCA",
+    "brand": "Cariuma",
+    "current_price": 3032.0,
+    "original_price": 3790.0,
+    "discount_pct": 20.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "Beige"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "discount",
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/632296-vrstva-69cariuma-1.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:56.671426+00:00"
+  },
+  {
+    "product_id": "ns117",
+    "url": "https://www.freshlabels.cz/en/products/novesta-star-master-ns117/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Star Master",
+    "brand": "Novesta",
+    "current_price": 1440.0,
+    "original_price": 1690.0,
+    "discount_pct": 14.8,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "-extra 10%",
+      "discount",
+      "produced in europe"
+    ],
+    "image_urls": [
+      "https://res.cloudinary.com/freshlabels-s-r-o/image/upload/c_limit,f_auto,h_381,q_70,w_300/v1/eshop/prod/product/586496-vrstva-2boty-11.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:56.671426+00:00"
+  },
+  {
+    "product_id": "ve168",
+    "url": "https://www.freshlabels.cz/en/products/veja-campo-ve168/",
+    "category": "shoes",
+    "category_path": "Shoes > Sneakers",
+    "name": "Campo",
+    "brand": "Veja",
+    "current_price": 3790.0,
+    "original_price": 3790.0,
+    "discount_pct": 0.0,
+    "sizes_in_stock": [],
+    "colors": [
+      "White"
+    ],
+    "sustainability_labels": [
+      "sustainable"
+    ],
+    "promo_tags": [
+      "free shipping"
+    ],
+    "image_urls": [
+      "https://www.freshlabels.cz/public/content-images/thumbs/shared/product/fit-w300-h381/campo-chrom-extra-wht-kaki-9.jpg"
+    ],
+    "scraped_at": "2026-04-04T21:32:56.671426+00:00"
+  }
+]
