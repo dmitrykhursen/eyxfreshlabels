@@ -1,0 +1,159 @@
+brand_name,fl_sku_count,comp_sku_count,matched_high,matched_medium,found_on_competitor,matched_total,unmatched_fl,match_rate_pct,competitor,tier
+Thinking MU,139,3,0,1,True,1,138,0.7,nila,ENTRY
+Armedangels,213,30,0,0,True,0,213,0.0,nila,ENTRY
+Birkenstock,24,4,0,0,True,0,24,0.0,nila,PREMIUM
+Blundstone,14,4,0,0,True,0,14,0.0,nila,PREMIUM
+ECOALF,49,11,0,0,True,0,49,0.0,nila,PREMIUM
+ENAMEL Copenhagen,23,60,0,0,True,0,23,0.0,nila,ENTRY
+Hlubina,2,3,0,0,True,0,2,0.0,nila,BASICS
+Izipizi,37,19,0,0,True,0,37,0.0,nila,BASICS
+Makia,1,8,0,0,True,0,1,0.0,nila,BASICS
+Organic Basics,92,24,0,0,True,0,92,0.0,nila,BASICS
+PrintWorks,8,14,0,0,True,0,8,0.0,nila,ENTRY
+SKFK,96,20,0,0,True,0,96,0.0,nila,LIFESTYLE_CORE
+Shupatto,30,4,0,0,True,0,30,0.0,nila,BASICS
+Veja,19,7,0,0,True,0,19,0.0,nila,PREMIUM
+Yerse,3,28,0,0,True,0,3,0.0,nila,LIFESTYLE_CORE
+AOMU,9,0,0,0,False,0,9,0.0,nila,BASICS
+Aevor,65,0,0,0,False,0,65,0.0,nila,LIFESTYLE_CORE
+Braasi Industry,32,0,0,0,False,0,32,0.0,nila,PREMIUM
+Carhartt WIP,595,0,0,0,False,0,595,0.0,nila,ENTRY
+Cariuma,3,0,0,0,False,0,3,0.0,nila,PREMIUM
+Chrome Industries,42,0,0,0,False,0,42,0.0,nila,ENTRY
+DAYZ,1,0,0,0,False,0,1,0.0,nila,BASICS
+Db,30,0,0,0,False,0,30,0.0,nila,PREMIUM
+Dickies,32,0,0,0,False,0,32,0.0,nila,ENTRY
+Dopper,1,0,0,0,False,0,1,0.0,nila,BASICS
+Elliker,12,0,0,0,False,0,12,0.0,nila,ENTRY
+FREITAG,48,0,0,0,False,0,48,0.0,nila,PREMIUM
+FUBUKI,6,0,0,0,False,0,6,0.0,nila,PREMIUM
+FURIOSA®,2,0,0,0,False,0,2,0.0,nila,LIFESTYLE_CORE
+Fila,1,0,0,0,False,0,1,0.0,nila,BASICS
+Fjällräven,92,0,0,0,False,0,92,0.0,nila,LIFESTYLE_CORE
+Forét,2,0,0,0,False,0,2,0.0,nila,ENTRY
+Freshlabels,6,0,0,0,False,0,6,0.0,nila,BASICS
+GUPPYFRIEND,2,0,0,0,False,0,2,0.0,nila,BASICS
+Got Bag,13,0,0,0,False,0,13,0.0,nila,ENTRY
+Gramicci,58,0,0,0,False,0,58,0.0,nila,LIFESTYLE_CORE
+HOME STUDYO,21,0,0,0,False,0,21,0.0,nila,ENTRY
+Herschel Supply,115,0,0,0,False,0,115,0.0,nila,ENTRY
+In August Company,6,0,0,0,False,0,6,0.0,nila,BASICS
+KAVU,1,0,0,0,False,0,1,0.0,nila,BASICS
+Kaala,21,0,0,0,False,0,21,0.0,nila,LIFESTYLE_CORE
+Karst,7,0,0,0,False,0,7,0.0,nila,BASICS
+Keen,24,0,0,0,False,0,24,0.0,nila,PREMIUM
+Klättermusen,43,0,0,0,False,0,43,0.0,nila,ENTRY
+Knowledge Cotton,3,0,0,0,False,0,3,0.0,nila,LIFESTYLE_CORE
+Komono,40,0,0,0,False,0,40,0.0,nila,ENTRY
+Montura,51,0,0,0,False,0,51,0.0,nila,LIFESTYLE_CORE
+Ninety Percent,1,0,0,0,False,0,1,0.0,nila,ENTRY
+Novesta,6,0,0,0,False,0,6,0.0,nila,ENTRY
+Nuuna,5,0,0,0,False,0,5,0.0,nila,BASICS
+ONE OF XX,29,0,0,0,False,0,29,0.0,nila,ENTRY
+ORACULUM,5,0,0,0,False,0,5,0.0,nila,BASICS
+On,4,0,0,0,False,0,4,0.0,nila,PREMIUM
+Osprey,8,0,0,0,False,0,8,0.0,nila,PREMIUM
+P&T,10,0,0,0,False,0,10,0.0,nila,BASICS
+PBG,4,0,0,0,False,0,4,0.0,nila,PREMIUM
+Patagonia,442,0,0,0,False,0,442,0.0,nila,LIFESTYLE_CORE
+Peak Design,15,0,0,0,False,0,15,0.0,nila,PREMIUM
+Rains,2,0,0,0,False,0,2,0.0,nila,ENTRY
+Rareplaces,1,0,0,0,False,0,1,0.0,nila,BASICS
+Salomon,48,0,0,0,False,0,48,0.0,nila,PREMIUM
+Sandqvist,1,0,0,0,False,0,1,0.0,nila,PREMIUM
+Secrid,1,0,0,0,False,0,1,0.0,nila,BASICS
+Service Works,115,0,0,0,False,0,115,0.0,nila,LIFESTYLE_CORE
+Skate World Better,8,0,0,0,False,0,8,0.0,nila,BASICS
+So.Slow,11,0,0,0,False,0,11,0.0,nila,BASICS
+Sony,9,0,0,0,False,0,9,0.0,nila,PREMIUM
+Taion,20,0,0,0,False,0,20,0.0,nila,PREMIUM
+Topo Designs,21,0,0,0,False,0,21,0.0,nila,LIFESTYLE_CORE
+Topologie,42,0,0,0,False,0,42,0.0,nila,ENTRY
+Tropicfeel,4,0,0,0,False,0,4,0.0,nila,PREMIUM
+Ucon Acrobatics,27,0,0,0,False,0,27,0.0,nila,LIFESTYLE_CORE
+VONIAK,7,0,0,0,False,0,7,0.0,nila,BASICS
+WINQS,5,0,0,0,False,0,5,0.0,nila,PREMIUM
+WeSC,1,0,0,0,False,0,1,0.0,nila,LIFESTYLE_CORE
+YKRA,18,0,0,0,False,0,18,0.0,nila,ENTRY
+ferdinand,34,0,0,0,False,0,34,0.0,nila,BASICS
+pinqponq,84,0,0,0,False,0,84,0.0,nila,LIFESTYLE_CORE
+Ölend,1,0,0,0,False,0,1,0.0,nila,BASICS
+Cariuma,3,24,0,2,True,2,1,66.7,queens,PREMIUM
+Osprey,8,24,5,0,True,5,3,62.5,queens,PREMIUM
+On,4,24,1,1,True,2,2,50.0,queens,PREMIUM
+Blundstone,14,16,6,0,True,6,8,42.9,queens,PREMIUM
+VONIAK,7,13,3,0,True,3,4,42.9,queens,BASICS
+Birkenstock,24,24,7,1,True,8,16,33.3,queens,PREMIUM
+Carhartt WIP,595,24,167,2,True,169,426,28.4,queens,ENTRY
+Dickies,32,24,0,7,True,7,25,21.9,queens,ENTRY
+Veja,19,24,1,3,True,4,15,21.1,queens,PREMIUM
+Patagonia,442,24,74,3,True,77,365,17.4,queens,LIFESTYLE_CORE
+Aevor,65,7,7,2,True,9,56,13.8,queens,LIFESTYLE_CORE
+Keen,24,24,0,3,True,3,21,12.5,queens,PREMIUM
+Gramicci,58,24,3,0,True,3,55,5.2,queens,LIFESTYLE_CORE
+FURIOSA®,2,24,0,0,True,0,2,0.0,queens,LIFESTYLE_CORE
+Rains,2,2,0,0,True,0,2,0.0,queens,ENTRY
+AOMU,9,0,0,0,False,0,9,0.0,queens,BASICS
+Armedangels,213,0,0,0,False,0,213,0.0,queens,ENTRY
+Braasi Industry,32,0,0,0,False,0,32,0.0,queens,PREMIUM
+Chrome Industries,42,0,0,0,False,0,42,0.0,queens,ENTRY
+DAYZ,1,0,0,0,False,0,1,0.0,queens,BASICS
+Db,30,0,0,0,False,0,30,0.0,queens,PREMIUM
+Dopper,1,0,0,0,False,0,1,0.0,queens,BASICS
+ECOALF,49,0,0,0,False,0,49,0.0,queens,PREMIUM
+ENAMEL Copenhagen,23,0,0,0,False,0,23,0.0,queens,ENTRY
+Elliker,12,0,0,0,False,0,12,0.0,queens,ENTRY
+FREITAG,48,0,0,0,False,0,48,0.0,queens,PREMIUM
+FUBUKI,6,0,0,0,False,0,6,0.0,queens,PREMIUM
+Fila,1,0,0,0,False,0,1,0.0,queens,BASICS
+Fjällräven,92,0,0,0,False,0,92,0.0,queens,LIFESTYLE_CORE
+Forét,2,0,0,0,False,0,2,0.0,queens,ENTRY
+Freshlabels,6,0,0,0,False,0,6,0.0,queens,BASICS
+GUPPYFRIEND,2,0,0,0,False,0,2,0.0,queens,BASICS
+Got Bag,13,0,0,0,False,0,13,0.0,queens,ENTRY
+HOME STUDYO,21,0,0,0,False,0,21,0.0,queens,ENTRY
+Herschel Supply,115,0,0,0,False,0,115,0.0,queens,ENTRY
+Hlubina,2,0,0,0,False,0,2,0.0,queens,BASICS
+In August Company,6,0,0,0,False,0,6,0.0,queens,BASICS
+Izipizi,37,0,0,0,False,0,37,0.0,queens,BASICS
+KAVU,1,0,0,0,False,0,1,0.0,queens,BASICS
+Kaala,21,0,0,0,False,0,21,0.0,queens,LIFESTYLE_CORE
+Karst,7,0,0,0,False,0,7,0.0,queens,BASICS
+Klättermusen,43,0,0,0,False,0,43,0.0,queens,ENTRY
+Knowledge Cotton,3,0,0,0,False,0,3,0.0,queens,LIFESTYLE_CORE
+Komono,40,0,0,0,False,0,40,0.0,queens,ENTRY
+Makia,1,0,0,0,False,0,1,0.0,queens,BASICS
+Montura,51,0,0,0,False,0,51,0.0,queens,LIFESTYLE_CORE
+Ninety Percent,1,0,0,0,False,0,1,0.0,queens,ENTRY
+Novesta,6,0,0,0,False,0,6,0.0,queens,ENTRY
+Nuuna,5,0,0,0,False,0,5,0.0,queens,BASICS
+ONE OF XX,29,0,0,0,False,0,29,0.0,queens,ENTRY
+ORACULUM,5,0,0,0,False,0,5,0.0,queens,BASICS
+Organic Basics,92,0,0,0,False,0,92,0.0,queens,BASICS
+P&T,10,0,0,0,False,0,10,0.0,queens,BASICS
+PBG,4,0,0,0,False,0,4,0.0,queens,PREMIUM
+Peak Design,15,0,0,0,False,0,15,0.0,queens,PREMIUM
+PrintWorks,8,0,0,0,False,0,8,0.0,queens,ENTRY
+Rareplaces,1,0,0,0,False,0,1,0.0,queens,BASICS
+SKFK,96,0,0,0,False,0,96,0.0,queens,LIFESTYLE_CORE
+Salomon,48,0,0,0,False,0,48,0.0,queens,PREMIUM
+Sandqvist,1,0,0,0,False,0,1,0.0,queens,PREMIUM
+Secrid,1,0,0,0,False,0,1,0.0,queens,BASICS
+Service Works,115,0,0,0,False,0,115,0.0,queens,LIFESTYLE_CORE
+Shupatto,30,0,0,0,False,0,30,0.0,queens,BASICS
+Skate World Better,8,0,0,0,False,0,8,0.0,queens,BASICS
+So.Slow,11,0,0,0,False,0,11,0.0,queens,BASICS
+Sony,9,0,0,0,False,0,9,0.0,queens,PREMIUM
+Taion,20,0,0,0,False,0,20,0.0,queens,PREMIUM
+Thinking MU,139,0,0,0,False,0,139,0.0,queens,ENTRY
+Topo Designs,21,0,0,0,False,0,21,0.0,queens,LIFESTYLE_CORE
+Topologie,42,0,0,0,False,0,42,0.0,queens,ENTRY
+Tropicfeel,4,0,0,0,False,0,4,0.0,queens,PREMIUM
+Ucon Acrobatics,27,0,0,0,False,0,27,0.0,queens,LIFESTYLE_CORE
+WINQS,5,0,0,0,False,0,5,0.0,queens,PREMIUM
+WeSC,1,0,0,0,False,0,1,0.0,queens,LIFESTYLE_CORE
+YKRA,18,0,0,0,False,0,18,0.0,queens,ENTRY
+Yerse,3,0,0,0,False,0,3,0.0,queens,LIFESTYLE_CORE
+ferdinand,34,0,0,0,False,0,34,0.0,queens,BASICS
+pinqponq,84,0,0,0,False,0,84,0.0,queens,LIFESTYLE_CORE
+Ölend,1,0,0,0,False,0,1,0.0,queens,BASICS

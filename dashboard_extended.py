@@ -8,12 +8,18 @@ Run with:  streamlit run dashboard_extended.py
 """
 
 import glob
+import sys
+import os
 
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+
+# Make sure dashboard/ package is importable
+sys.path.insert(0, os.path.dirname(__file__))
+from dashboard.tabs.price_premium import render as render_competitor_premium
 
 # ---------------------------------------------------------------------------
 # Page config
@@ -173,13 +179,14 @@ if df.empty:
 # ---------------------------------------------------------------------------
 # Tabs
 # ---------------------------------------------------------------------------
-tab_overview, tab_brand_portfolio, tab_pricing, tab_equity, tab_ltv, tab_premium, tab_explorer = st.tabs([
+tab_overview, tab_brand_portfolio, tab_pricing, tab_equity, tab_ltv, tab_premium, tab_comp_premium, tab_explorer = st.tabs([
     "Overview",
     "Brand Portfolio",
     "Pricing & Discounts",
     "Brand Equity Signals",
     "LTV vs CAC Model",
-    "Price Premium",
+    "Catalog Price Premium",
+    "Competitor Price Premium",
     "Product Explorer",
 ])
 
@@ -719,7 +726,13 @@ with tab_premium:
     )
 
 # =============================================================================
-# TAB 7: PRODUCT EXPLORER
+# TAB 7: COMPETITOR PRICE PREMIUM (Queens.cz + future competitors)
+# =============================================================================
+with tab_comp_premium:
+    render_competitor_premium()
+
+# =============================================================================
+# TAB 8: PRODUCT EXPLORER
 # =============================================================================
 with tab_explorer:
     c1, c2 = st.columns([3, 1])

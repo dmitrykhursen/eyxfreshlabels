@@ -1,0 +1,15 @@
+brand,tier,competitor,mean_premium,median_premium,std_premium,n_matched,fl_sku_count
+Birkenstock,PREMIUM,queens,18.41,2.68,45.98,8,24
+Keen,PREMIUM,queens,-0.23,-0.23,0.0,3,24
+Veja,PREMIUM,queens,2.06,0.34,5.14,4,19
+Blundstone,PREMIUM,queens,-0.22,-0.18,0.99,6,14
+Osprey,PREMIUM,queens,0.41,-0.24,1.47,5,8
+On,PREMIUM,queens,0.0,0.0,0.0,2,4
+Cariuma,PREMIUM,queens,0.74,0.74,15.22,2,3
+Patagonia,LIFESTYLE_CORE,queens,4.1,2.67,8.16,77,442
+Aevor,LIFESTYLE_CORE,queens,1.2,0.0,14.22,9,65
+Gramicci,LIFESTYLE_CORE,queens,-0.71,-0.43,2.44,3,58
+Carhartt WIP,ENTRY,queens,-35.4,-45.32,22.18,169,595
+Thinking MU,ENTRY,nila,-7.79,-7.79,,1,139
+Dickies,ENTRY,queens,3.82,5.06,2.57,7,32
+VONIAK,BASICS,queens,0.0,0.0,0.0,3,7

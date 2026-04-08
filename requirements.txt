@@ -4,3 +4,5 @@ plotly>=5.22
 requests>=2.32
 beautifulsoup4>=4.12
 lxml>=5.2
+playwright>=1.44
+rapidfuzz>=3.9
