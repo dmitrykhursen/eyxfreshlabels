@@ -1,15 +1,25 @@
 brand,tier,competitor,mean_premium,median_premium,std_premium,n_matched,fl_sku_count
-Birkenstock,PREMIUM,queens,18.41,2.68,45.98,8,24
+ECOALF,PREMIUM,nila,-5.64,-7.21,5.62,9,49
+Birkenstock,PREMIUM,nila,-4.28,-4.28,17.88,2,24
+Birkenstock,PREMIUM,queens,2.16,2.4,2.94,7,24
 Keen,PREMIUM,queens,-0.23,-0.23,0.0,3,24
-Veja,PREMIUM,queens,2.06,0.34,5.14,4,19
+Veja,PREMIUM,queens,-1.58,-1.13,4.85,14,19
+Blundstone,PREMIUM,nila,1.86,1.86,0.0,2,14
 Blundstone,PREMIUM,queens,-0.22,-0.18,0.99,6,14
 Osprey,PREMIUM,queens,0.41,-0.24,1.47,5,8
 On,PREMIUM,queens,0.0,0.0,0.0,2,4
-Cariuma,PREMIUM,queens,0.74,0.74,15.22,2,3
-Patagonia,LIFESTYLE_CORE,queens,4.1,2.67,8.16,77,442
-Aevor,LIFESTYLE_CORE,queens,1.2,0.0,14.22,9,65
-Gramicci,LIFESTYLE_CORE,queens,-0.71,-0.43,2.44,3,58
-Carhartt WIP,ENTRY,queens,-35.4,-45.32,22.18,169,595
+Cariuma,PREMIUM,queens,0.49,0.0,10.77,3,3
+Patagonia,LIFESTYLE_CORE,queens,4.33,2.67,5.38,79,442
+SKFK,LIFESTYLE_CORE,nila,-3.99,-5.97,4.44,7,96
+Aevor,LIFESTYLE_CORE,queens,-5.13,-6.89,6.25,14,65
+Gramicci,LIFESTYLE_CORE,queens,-6.81,-8.64,4.14,10,58
+Yerse,LIFESTYLE_CORE,nila,-19.7,-19.7,,1,3
+Carhartt WIP,ENTRY,queens,-6.61,-6.35,9.49,24,595
+Armedangels,ENTRY,nila,-9.27,-8.35,7.83,25,213
 Thinking MU,ENTRY,nila,-7.79,-7.79,,1,139
 Dickies,ENTRY,queens,3.82,5.06,2.57,7,32
-VONIAK,BASICS,queens,0.0,0.0,0.0,3,7
+ENAMEL Copenhagen,ENTRY,nila,-11.14,-11.01,0.85,4,23
+PrintWorks,ENTRY,nila,6.89,7.01,12.29,3,8
+Organic Basics,BASICS,nila,-7.27,-7.27,0.0,3,92
+Izipizi,BASICS,nila,12.84,11.9,2.11,5,37
+VONIAK,BASICS,queens,0.0,0.0,0.0,5,7

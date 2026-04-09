@@ -83,9 +83,33 @@ def render() -> None:
     pp = data["per_product"]
     competitors = sorted(pp["competitor"].unique())
 
+    st.markdown(
+        "**How Freshlabels' prices compare to competitors for the same products.** "
+        "Products are matched by brand and fuzzy product name, then original (non-discounted) prices are compared. "
+        "A positive premium means Freshlabels charges more; negative means cheaper."
+    )
+    st.caption(
+        "**Abbreviations & key terms** — "
+        "**FL** / Freshlabels: the Freshlabels.cz catalog (our side of the comparison). "
+        "**SKU** (Stock Keeping Unit): one product as it appears in the catalog. "
+        "**Premium %**: (FL price − competitor price) / competitor price × 100. "
+        "Positive = FL is more expensive; negative = FL is cheaper. "
+        "**Match Rate %**: share of FL products for a given brand that were successfully paired with a competitor product. "
+        "**Confidence HIGH / MEDIUM**: quality of the fuzzy name match — "
+        "HIGH = score ≥ 90 (near-identical name after normalisation), "
+        "MEDIUM = score 80–89 (likely same product, possible variant difference). "
+        "Matches with a price gap > ±20% are automatically discarded as likely false positives. "
+        "**Tiers** (based on brand median price on Freshlabels): "
+        "PREMIUM ≥ 2 500 CZK · LIFESTYLE_CORE 1 800–2 499 CZK · ENTRY 1 000–1 799 CZK · BASICS < 1 000 CZK. "
+        "**Exclusivity Score**: number of scraped competitors that do NOT carry a given brand "
+        "(max = total number of competitors scraped). Higher = more exclusive to Freshlabels."
+    )
+    st.divider()
+
     # ── Section 1: Headline scorecard ────────────────────────────────────────
     st.subheader("Headline: Price Premium vs Competitors")
     st.caption(
+        "Weighted mean premium across all matched product pairs for each competitor. "
         "Positive = Freshlabels charges MORE than the competitor. "
         "Based on original (non-discounted) prices, matched products only."
     )
@@ -112,8 +136,14 @@ def render() -> None:
     # ── Section 1b: Brand Coverage ────────────────────────────────────────────
     st.subheader("Brand Coverage — Which Brands Are Found on Each Competitor?")
     st.caption(
-        "Shows how many Freshlabels brands appear on each competitor site, "
-        "and how many products were successfully matched per brand."
+        "Shows how many Freshlabels brands appear on each competitor site "
+        "and how many products were successfully matched per brand. "
+        "**FL SKUs**: total products on Freshlabels for that brand. "
+        "**Competitor SKUs**: total products scraped for that brand on the competitor. "
+        "**Match Rate %**: (HIGH + MEDIUM matches) / FL SKUs × 100. "
+        "Brands with 0 competitor SKUs were not found on that competitor at all. "
+        "The right-hand chart shows brands absent from a competitor — "
+        "these are potential Freshlabels exclusives."
     )
 
     brand_cov = data["brand_coverage"]
@@ -223,6 +253,13 @@ def render() -> None:
 
     # ── Section 2: Brand × Competitor heatmap ───────────────────────────────
     st.subheader("Brand × Competitor Price Premium Heatmap")
+    st.caption(
+        "Each cell = mean Premium % for that brand–competitor pair (matched products only). "
+        "Green = Freshlabels charges more; red = competitor charges more; '–' = no matched products. "
+        "Rows are sorted by price tier (top = most premium) then by SKU count within each tier. "
+        "**Tier definitions** (by brand median price on Freshlabels): "
+        "PREMIUM ≥ 2 500 CZK · LIFESTYLE_CORE 1 800–2 499 CZK · ENTRY 1 000–1 799 CZK · BASICS < 1 000 CZK."
+    )
 
     brand_comp = data["per_brand"]
     tiers_df = data["tiers"]
@@ -280,7 +317,15 @@ def render() -> None:
 
     # ── Section 3: Tier breakdown ─────────────────────────────────────────────
     st.subheader("Price Premium by Price Tier")
-    st.caption("The key strategic question: where is Freshlabels' pricing power concentrated?")
+    st.caption(
+        "The key strategic question: where is Freshlabels' pricing power concentrated? "
+        "**Tier assignment** is based on the brand's median price across all its FL products: "
+        "**PREMIUM** ≥ 2 500 CZK (e.g. Arc'teryx, Canada Goose) · "
+        "**LIFESTYLE_CORE** 1 800–2 499 CZK (e.g. Patagonia, Carhartt WIP) · "
+        "**ENTRY** 1 000–1 799 CZK (e.g. Vans, New Balance apparel) · "
+        "**BASICS** < 1 000 CZK. "
+        "Bars above 0% = Freshlabels is priced higher than the competitor in that tier."
+    )
 
     per_tier = data["per_tier"]
     if per_tier is not None:
@@ -327,6 +372,13 @@ def render() -> None:
 
     # ── Section 4: Exclusivity analysis ─────────────────────────────────────
     st.subheader("Brand Exclusivity — Freshlabels' Curation Moat")
+    st.caption(
+        "**Exclusivity Score** = number of scraped competitors that do NOT carry the brand. "
+        "Maximum score = total number of competitors scraped. "
+        "A brand with the maximum score is not found on any competitor — "
+        "customers who want it must come to Freshlabels. "
+        "This is the 'curation moat': Freshlabels' ability to stock brands unavailable elsewhere."
+    )
 
     excl_df = data["exclusivity"]
     if excl_df is not None and "exclusivity_score" in excl_df.columns:
@@ -397,20 +449,23 @@ def render() -> None:
 
     st.caption(f"{len(table_df):,} matched pairs")
 
-    # Identify competitor-specific price column dynamically
-    comp_price_col = next(
-        (c for c in table_df.columns if c.endswith("_price") and not c.startswith("freshlabels")),
-        None,
-    )
-    comp_name_col = next(
-        (c for c in table_df.columns if c.endswith("_name") and not c.startswith("freshlabels")),
-        None,
-    )
+    # Build generic comp_name / comp_price columns by reading the per-row competitor column.
+    # This works for any number of competitors dynamically.
+    def _pick_col(row, suffix):
+        comp = row.get("competitor", "")
+        col = f"{comp}{suffix}"
+        if col in row.index:
+            return row[col]
+        return None
+
+    table_df = table_df.copy()
+    table_df["comp_name"]  = table_df.apply(lambda r: _pick_col(r, "_name"),  axis=1)
+    table_df["comp_price"] = table_df.apply(lambda r: _pick_col(r, "_price"), axis=1)
 
     display_cols = [
         "brand",
         "freshlabels_name", "freshlabels_price",
-        comp_name_col or "competitor", comp_price_col or "competitor",
+        "comp_name", "comp_price",
         "premium_pct", "match_score", "match_confidence", "competitor",
     ]
     display_cols = [c for c in display_cols if c in table_df.columns]
@@ -431,15 +486,13 @@ def render() -> None:
         "brand": "Brand",
         "freshlabels_name": st.column_config.TextColumn("Freshlabels Product", width="large"),
         "freshlabels_price": st.column_config.NumberColumn("FL Price (CZK)", format="%.0f"),
+        "comp_name":  st.column_config.TextColumn("Competitor Product", width="large"),
+        "comp_price": st.column_config.NumberColumn("Competitor Price (CZK)", format="%.0f"),
         "premium_pct": st.column_config.NumberColumn("Premium %", format="%+.1f%%"),
         "match_score": st.column_config.NumberColumn("Match Score", format="%.0f"),
         "match_confidence": "Confidence",
         "competitor": "Competitor",
     }
-    if comp_price_col:
-        col_config[comp_price_col] = st.column_config.NumberColumn(
-            f"{comp_price_col.split('_')[0].title()} Price (CZK)", format="%.0f"
-        )
 
     st.dataframe(styled, column_config=col_config, use_container_width=True,
                  hide_index=True, height=500)
@@ -449,15 +502,27 @@ def render() -> None:
     # ── Section 6: Methodology ───────────────────────────────────────────────
     with st.expander("Methodology & Data Quality"):
         st.markdown(
-            "**Pricing principle:** Original (non-discounted) prices used for both sides. "
+            "**Pricing principle:** Original (non-discounted) prices are used on both sides. "
             "Discounted prices reflect short-term promotions, not structural brand value.\n\n"
-            "**Matching algorithm:** Product names normalised (lowercase, brand prefix removed, "
-            "colour/size stripped), then compared using `rapidfuzz.fuzz.token_sort_ratio`.\n\n"
-            "| Confidence | Score | Interpretation |\n"
+            "**Matching pipeline:**\n"
+            "1. Products are matched only within the same brand.\n"
+            "2. Names are normalised: lowercased, brand prefix removed, "
+            "colour/size suffix stripped (e.g. `- Black`, `/ S`), punctuation removed.\n"
+            "3. Best-match is found using `rapidfuzz.fuzz.token_set_ratio` — "
+            "this handles cases where a competitor prepends a category or appends a colour "
+            "to the model name (the FL name is a *subset* of the competitor name).\n"
+            "4. **Price sanity filter**: pairs where `|Premium %| > 20%` are discarded "
+            "as likely false positives — a genuine same-product match should not have "
+            "prices more than 20% apart.\n\n"
+            "| Confidence | Fuzzy Score | Interpretation |\n"
             "|---|---|---|\n"
-            "| HIGH | ≥ 90 | Same product with high certainty |\n"
-            "| MEDIUM | 80–89 | Likely same product, possible variant |\n"
-            "| < 80 | — | Not matched (excluded) |"
+            "| HIGH | ≥ 90 | Near-identical name — same product with high certainty |\n"
+            "| MEDIUM | 80–89 | Likely same product, possible colour/size variant in the name |\n"
+            "| — (excluded) | < 80 | Names too different to be reliably matched |\n\n"
+            "**Known limitations:** fuzzy name matching cannot distinguish between "
+            "products with very similar names but different specifications "
+            "(e.g. different fabric weights). The ±20% price filter removes the worst "
+            "false positives but does not catch all edge cases."
         )
 
         match_report = data["match_report"]

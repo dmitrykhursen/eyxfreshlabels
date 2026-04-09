@@ -194,6 +194,21 @@ tab_overview, tab_brand_portfolio, tab_pricing, tab_equity, tab_ltv, tab_premium
 # TAB 1: OVERVIEW
 # =============================================================================
 with tab_overview:
+    st.markdown(
+        "**High-level snapshot of the Freshlabels catalog** as scraped. "
+        "All counts and prices reflect the latest scrape after de-duplication (one row per `product_id`). "
+        "Use the sidebar filters to narrow by category, brand, or price range."
+    )
+    st.caption(
+        "**Glossary** — "
+        "**CZK**: Czech Koruna (currency). "
+        "**On Sale**: product has a recorded discount (original price > current price). "
+        "**Product Family**: the first segment of the full category path "
+        "(e.g. `Clothing > Jackets > Fleece` → Product Family = *Clothing*). "
+        "**Promo Tags**: labels like *New*, *Bestseller*, *Limited edition* assigned by the Freshlabels site. "
+        "**Sustainability Labels**: certifications or eco-labels attached to a product (e.g. *Fair Trade*, *GOTS*, *Recycled*)."
+    )
+    st.divider()
     c1, c2, c3, c4, c5 = st.columns(5)
     c1.metric("Products", f"{len(df):,}")
     c2.metric("Brands", df["brand"].nunique())
@@ -251,6 +266,24 @@ with tab_overview:
 # TAB 2: BRAND PORTFOLIO
 # =============================================================================
 with tab_brand_portfolio:
+    st.markdown(
+        "**Brand-level breakdown of the Freshlabels catalog.** "
+        "Each metric aggregates all products belonging to a brand within the current filters."
+    )
+    st.caption(
+        "**Glossary** — "
+        "**HHI** (Herfindahl-Hirschman Index): market concentration measure. "
+        "Computed as Σ(brand_share²) × 10 000. "
+        "0 = perfectly fragmented; 10 000 = single brand monopoly. "
+        "Thresholds: < 1 500 = competitive, 1 500–2 500 = moderate, > 2 500 = concentrated. "
+        "**Share %**: brand's share of total product count in the filtered catalog. "
+        "**Breadth**: number of distinct Product Families the brand covers — higher = wider assortment. "
+        "**% Sustainable**: share of the brand's products that carry at least one sustainability label. "
+        "**Premium vs cat %**: average price premium of the brand's products vs the mean price in their Product Family "
+        "(positive = brand charges above the family average, negative = below). "
+        "**% on Sale**: share of the brand's products currently discounted."
+    )
+    st.divider()
     # Compute brand-level KPIs
     brand_kpi = df.groupby("brand").agg(
         products=("product_id", "size"),
@@ -334,6 +367,23 @@ with tab_brand_portfolio:
 # TAB 3: PRICING & DISCOUNTS
 # =============================================================================
 with tab_pricing:
+    st.markdown(
+        "**Pricing structure and discount behaviour across the catalog.** "
+        "Discount metrics are computed only on products that are currently discounted "
+        "(original price > current price). The sustainability premium section tests whether "
+        "eco-labelled products are priced higher than conventional ones within the same catalog."
+    )
+    st.caption(
+        "**Glossary** — "
+        "**Avg Discount**: mean discount percentage among discounted products only (excludes full-price items). "
+        "**Median Price**: the middle price value — less sensitive to outliers than the mean. "
+        "**% on Sale**: share of ALL catalog products (including filters) that have any active discount. "
+        "**Diagonal (y = x)**: the dashed reference line in the scatter plot where current price = original price "
+        "(i.e. no discount). Points below the line are on sale. "
+        "**Sustainable / Conventional**: products are labelled *Sustainable* if they carry at least one "
+        "sustainability label; all others are *Conventional*."
+    )
+    st.divider()
     discounted = df[df["has_discount"]]
 
     c1, c2, c3, c4 = st.columns(4)
@@ -404,6 +454,21 @@ with tab_equity:
         "**Proxies for brand equity observable from the catalog.** "
         "A strong brand typically shows: large assortment share, wide category breadth, "
         "consistent sustainability positioning, and lower reliance on discounting."
+    )
+    st.caption(
+        "**Composite Brand Equity Score (0–100)** — weighted sum of five min-max normalised signals: "
+        "30% Assortment Share (more products = more customer exposure), "
+        "25% Category Breadth (wider = brand is versatile), "
+        "20% Inverse Discount Dependency (less discounting = stronger pricing power), "
+        "15% Sustainability Share (eco-credentials signal premium positioning), "
+        "10% Price Premium vs Product Family (positive premium confirms customers pay above average). "
+        "All components are normalised to 0–100 within the currently filtered brand set — "
+        "scores are relative, not absolute. "
+        "**Strategic Quadrant axes**: X = Assortment Share (% of total catalog products), "
+        "Y = Price Premium vs Product Family average (%). "
+        "Dot size = number of products; colour = % of products on sale "
+        "(red = high discount dependency = weaker equity signal). "
+        "The vertical dashed line marks the median assortment share; horizontal at 0% premium."
     )
 
     brand_equity = df.groupby("brand").agg(
@@ -505,7 +570,26 @@ with tab_ltv:
     st.markdown(
         "**Interactive LTV vs CAC simulator.** Compares a _brand-led_ customer "
         "(higher repeat, higher AOV, less discount-sensitive) against a "
-        "_discount-led_ customer (half repeat rate, lower AOV). Adjust assumptions in the sidebar."
+        "_discount-led_ customer (lower repeat rate, lower AOV). Adjust assumptions in the sidebar."
+    )
+    st.caption(
+        "**Abbreviations & formulas** — "
+        "**LTV** (Customer Lifetime Value): total gross profit expected from a customer cohort over the chosen horizon. "
+        "Calculated as Σ(orders × AOV × gross_margin%) across years, where the retained fraction "
+        "compounds by the repeat rate each year. "
+        "**CAC** (Customer Acquisition Cost): the total marketing spend divided by the number of new customers acquired. "
+        "**AOV** (Average Order Value): average revenue per completed order, in CZK. "
+        "**PNO** (Podíl Nákladů na Obratu — Czech): marketing cost as a % of total revenue; "
+        "the Czech e-commerce standard equivalent of ROAS inverted. "
+        "Lower PNO = more efficient marketing spend. "
+        "**Gross Margin %**: revenue minus cost of goods, as a % of revenue. "
+        "**Repeat Rate %**: probability that a customer places another order within 12 months. "
+        "**LTV/CAC ≥ 3**: industry rule of thumb for healthy unit economics — "
+        "a customer should generate at least 3× their acquisition cost in gross profit. "
+        "**Non-Paid Traffic**: organic, direct, and SEO visitors who arrive without clicking a paid ad. "
+        "Higher non-paid share reduces effective PNO because you pay less per visitor. "
+        "**pp** (percentage points): absolute difference between two percentages "
+        "(e.g. PNO rising from 10% to 12% = +2 pp, not +20%)."
     )
 
     st.subheader("Customer Segment Assumptions")
@@ -659,6 +743,16 @@ with tab_premium:
         "each brand charges.** Premium positioning is a direct observable proxy for brand "
         "pricing power (the Economic Moat)."
     )
+    st.caption(
+        "**How price premium is calculated**: for each product, the mean current price of all products "
+        "in the same Product Family (top-level category) is computed. "
+        "Price Premium % = (product_price − family_mean) / family_mean × 100. "
+        "The brand-level figure is the average of this metric across all the brand's products. "
+        "Positive = brand charges above the family average; negative = below. "
+        "**Discount Dependency axis** in the scatter: % of the brand's SKUs currently on sale — "
+        "ideal brands sit top-left (high premium, low discount reliance). "
+        "**SKU** (Stock Keeping Unit): one individual product variant as it appears in the catalog."
+    )
 
     min_n = st.slider("Min products per brand", 1, 50, 10, key="prem_min")
     valid_brands = df.groupby("brand").size()
@@ -735,6 +829,21 @@ with tab_comp_premium:
 # TAB 8: PRODUCT EXPLORER
 # =============================================================================
 with tab_explorer:
+    st.markdown(
+        "**Browse and search individual products** from the filtered catalog. "
+        "Use the search box to filter by product name or brand, sort the table, "
+        "and click *Product Detail* to inspect a single item including its image."
+    )
+    st.caption(
+        "**Column guide** — "
+        "**Price (CZK)**: current selling price. "
+        "**Original**: original price before discount (shown only if different from current). "
+        "**Discount**: (original − current) / original × 100. "
+        "**Colors**: available colour options as scraped (pipe-separated). "
+        "**Sustainability**: eco-labels attached to the product. "
+        "**Promo**: promotional tags (e.g. *New arrival*, *Bestseller*)."
+    )
+    st.divider()
     c1, c2 = st.columns([3, 1])
     with c1:
         q = st.text_input("Search name or brand", "")

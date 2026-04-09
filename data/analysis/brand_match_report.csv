@@ -1,19 +1,19 @@
 brand_name,fl_sku_count,comp_sku_count,matched_high,matched_medium,found_on_competitor,matched_total,unmatched_fl,match_rate_pct,competitor,tier
-Thinking MU,139,3,0,1,True,1,138,0.7,nila,ENTRY
-Armedangels,213,30,0,0,True,0,213,0.0,nila,ENTRY
-Birkenstock,24,4,0,0,True,0,24,0.0,nila,PREMIUM
-Blundstone,14,4,0,0,True,0,14,0.0,nila,PREMIUM
-ECOALF,49,11,0,0,True,0,49,0.0,nila,PREMIUM
-ENAMEL Copenhagen,23,60,0,0,True,0,23,0.0,nila,ENTRY
+PrintWorks,8,14,2,1,True,3,5,37.5,nila,ENTRY
+Yerse,3,28,1,0,True,1,2,33.3,nila,LIFESTYLE_CORE
+ECOALF,49,11,9,0,True,9,40,18.4,nila,PREMIUM
+ENAMEL Copenhagen,23,60,4,0,True,4,19,17.4,nila,ENTRY
+Blundstone,14,4,2,0,True,2,12,14.3,nila,PREMIUM
+Izipizi,37,19,5,0,True,5,32,13.5,nila,BASICS
+Armedangels,213,30,25,0,True,25,188,11.7,nila,ENTRY
+Birkenstock,24,4,1,1,True,2,22,8.3,nila,PREMIUM
+SKFK,96,20,7,0,True,7,89,7.3,nila,LIFESTYLE_CORE
+Organic Basics,92,24,0,3,True,3,89,3.3,nila,BASICS
+Thinking MU,139,3,1,0,True,1,138,0.7,nila,ENTRY
 Hlubina,2,3,0,0,True,0,2,0.0,nila,BASICS
-Izipizi,37,19,0,0,True,0,37,0.0,nila,BASICS
 Makia,1,8,0,0,True,0,1,0.0,nila,BASICS
-Organic Basics,92,24,0,0,True,0,92,0.0,nila,BASICS
-PrintWorks,8,14,0,0,True,0,8,0.0,nila,ENTRY
-SKFK,96,20,0,0,True,0,96,0.0,nila,LIFESTYLE_CORE
 Shupatto,30,4,0,0,True,0,30,0.0,nila,BASICS
 Veja,19,7,0,0,True,0,19,0.0,nila,PREMIUM
-Yerse,3,28,0,0,True,0,3,0.0,nila,LIFESTYLE_CORE
 AOMU,9,0,0,0,False,0,9,0.0,nila,BASICS
 Aevor,65,0,0,0,False,0,65,0.0,nila,LIFESTYLE_CORE
 Braasi Industry,32,0,0,0,False,0,32,0.0,nila,PREMIUM
@@ -78,19 +78,19 @@ YKRA,18,0,0,0,False,0,18,0.0,nila,ENTRY
 ferdinand,34,0,0,0,False,0,34,0.0,nila,BASICS
 pinqponq,84,0,0,0,False,0,84,0.0,nila,LIFESTYLE_CORE
 Ölend,1,0,0,0,False,0,1,0.0,nila,BASICS
-Cariuma,3,24,0,2,True,2,1,66.7,queens,PREMIUM
+Cariuma,3,24,3,0,True,3,0,100.0,queens,PREMIUM
+Veja,19,24,6,8,True,14,5,73.7,queens,PREMIUM
+VONIAK,7,13,3,2,True,5,2,71.4,queens,BASICS
 Osprey,8,24,5,0,True,5,3,62.5,queens,PREMIUM
-On,4,24,1,1,True,2,2,50.0,queens,PREMIUM
+On,4,24,2,0,True,2,2,50.0,queens,PREMIUM
 Blundstone,14,16,6,0,True,6,8,42.9,queens,PREMIUM
-VONIAK,7,13,3,0,True,3,4,42.9,queens,BASICS
-Birkenstock,24,24,7,1,True,8,16,33.3,queens,PREMIUM
-Carhartt WIP,595,24,167,2,True,169,426,28.4,queens,ENTRY
-Dickies,32,24,0,7,True,7,25,21.9,queens,ENTRY
-Veja,19,24,1,3,True,4,15,21.1,queens,PREMIUM
-Patagonia,442,24,74,3,True,77,365,17.4,queens,LIFESTYLE_CORE
-Aevor,65,7,7,2,True,9,56,13.8,queens,LIFESTYLE_CORE
-Keen,24,24,0,3,True,3,21,12.5,queens,PREMIUM
-Gramicci,58,24,3,0,True,3,55,5.2,queens,LIFESTYLE_CORE
+Birkenstock,24,24,6,1,True,7,17,29.2,queens,PREMIUM
+Dickies,32,24,2,5,True,7,25,21.9,queens,ENTRY
+Aevor,65,7,13,1,True,14,51,21.5,queens,LIFESTYLE_CORE
+Patagonia,442,24,67,12,True,79,363,17.9,queens,LIFESTYLE_CORE
+Gramicci,58,24,10,0,True,10,48,17.2,queens,LIFESTYLE_CORE
+Keen,24,24,3,0,True,3,21,12.5,queens,PREMIUM
+Carhartt WIP,595,24,22,2,True,24,571,4.0,queens,ENTRY
 FURIOSA®,2,24,0,0,True,0,2,0.0,queens,LIFESTYLE_CORE
 Rains,2,2,0,0,True,0,2,0.0,queens,ENTRY
 AOMU,9,0,0,0,False,0,9,0.0,queens,BASICS

@@ -21,6 +21,7 @@ logger = logging.getLogger(__name__)
 
 HIGH_THRESHOLD   = 90
 MEDIUM_THRESHOLD = 80
+MAX_PRICE_DIFF_PCT = 20  # reject matches where prices differ by more than ±20 %
 
 # Colour / size tokens to strip before comparison
 _STRIP_PATTERN = re.compile(
@@ -109,11 +110,17 @@ def match_products(
             if not fl_norm:
                 continue
 
-            # Find best match among competitor products of same brand
+            # Find best match among competitor products of same brand.
+            # token_set_ratio handles competitors (e.g. nila.cz) that prepend
+            # a garment-type category ("T-shirt", "Pants", …) and append a
+            # colour/variant to the model name.  FL product names are usually
+            # just the bare model name, so the FL name is a subset of the
+            # competitor name — token_set_ratio scores subsets at 100 while
+            # token_sort_ratio would penalise the extra tokens and miss the match.
             result = process.extractOne(
                 fl_norm,
                 comp_norms,
-                scorer=fuzz.token_sort_ratio,
+                scorer=fuzz.token_set_ratio,
             )
             if not result:
                 continue
@@ -134,6 +141,16 @@ def match_products(
             premium_pct = None
             if fl_price and comp_price and comp_price > 0:
                 premium_pct = round((fl_price - comp_price) / comp_price * 100, 2)
+
+            # Price sanity check: if the two prices differ by more than ±20 %,
+            # the name match is almost certainly a false positive (different
+            # product), so discard it regardless of fuzzy score.
+            if premium_pct is not None and abs(premium_pct) > MAX_PRICE_DIFF_PCT:
+                logger.debug(
+                    "[matcher] Skipping FP: '%s' ~ '%s' (score=%d, premium=%.1f%%)",
+                    fl_row["name"], comp_row["product_name"], score, premium_pct,
+                )
+                continue
 
             results.append({
                 "brand": brand,
