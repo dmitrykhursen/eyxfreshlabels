@@ -79,6 +79,9 @@ if __name__ == "__main__":
     freshlabels_file = "/home/dkhursen/Documents/webscrap-freshlabels/eyxfreshlabels/output/products.csv"
     competitor_file = "/home/dkhursen/Documents/webscrap-freshlabels/eyxfreshlabels/data/competitors/queens/all_products.csv"
     competitor_file2 = "/home/dkhursen/Documents/webscrap-freshlabels/eyxfreshlabels/data/competitors/nila/all_products.csv"
+    competitor_file3 = "/home/dkhursen/Documents/webscrap-freshlabels/eyxfreshlabels/data/competitors/zalando/all_products.csv"
+
     # analyze_competitor_sales(freshlabels_file, competitor_file, "queens_related_data")
-    analyze_competitor_sales(freshlabels_file, competitor_file2, "nila_related_data")
+    # analyze_competitor_sales(freshlabels_file, competitor_file2, "nila_related_data")
+    analyze_competitor_sales(freshlabels_file, competitor_file3, "zalando_related_data")
     # pass
