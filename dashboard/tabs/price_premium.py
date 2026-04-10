@@ -109,7 +109,9 @@ def render() -> None:
     # ── Section 1: Headline scorecard ────────────────────────────────────────
     st.subheader("Headline: Price Premium vs Competitors")
     st.caption(
-        "Weighted mean premium across all matched product pairs for each competitor. "
+        # "Weighted mean premium across all matched product pairs for each competitor. "
+        "Overall mean premium across all matched products "
+
         "Positive = Freshlabels charges MORE than the competitor. "
         "Based on original (non-discounted) prices, matched products only."
     )
@@ -121,7 +123,9 @@ def render() -> None:
         if row.empty:
             cols[i].metric(comp.title(), "n/a")
             continue
-        val = row["weighted_mean_premium"].iloc[0]
+        # val = row["weighted_mean_premium"].iloc[0]
+        val = row["overall_mean_premium"].iloc[0]
+        
         n = int(row["n_products_matched"].iloc[0])
         delta_color = "normal" if val >= 0 else "inverse"
         cols[i].metric(

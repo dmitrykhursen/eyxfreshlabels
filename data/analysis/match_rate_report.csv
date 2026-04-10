@@ -1,3 +1,4 @@
 competitor,total_fl_products,matched_high,matched_medium,unmatched,match_rate_pct
 nila,3123,57,5,3061,2.0
 queens,3123,148,31,2944,5.7
+zalando,3123,711,225,2187,30.0

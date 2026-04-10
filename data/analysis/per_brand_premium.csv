@@ -1,5 +1,6 @@
 brand,tier,competitor,mean_premium,median_premium,std_premium,n_matched,fl_sku_count
 ECOALF,PREMIUM,nila,-5.64,-7.21,5.62,9,49
+Salomon,PREMIUM,zalando,2.51,2.51,,1,48
 Birkenstock,PREMIUM,nila,-4.28,-4.28,17.88,2,24
 Birkenstock,PREMIUM,queens,2.16,2.4,2.94,7,24
 Keen,PREMIUM,queens,-0.23,-0.23,0.0,3,24
@@ -10,16 +11,21 @@ Osprey,PREMIUM,queens,0.41,-0.24,1.47,5,8
 On,PREMIUM,queens,0.0,0.0,0.0,2,4
 Cariuma,PREMIUM,queens,0.49,0.0,10.77,3,3
 Patagonia,LIFESTYLE_CORE,queens,4.33,2.67,5.38,79,442
+Patagonia,LIFESTYLE_CORE,zalando,0.92,-0.4,3.76,64,442
+Service Works,LIFESTYLE_CORE,zalando,0.43,2.24,3.76,25,115
 SKFK,LIFESTYLE_CORE,nila,-3.99,-5.97,4.44,7,96
+Fjällräven,LIFESTYLE_CORE,zalando,2.92,0.0,8.22,16,92
 Aevor,LIFESTYLE_CORE,queens,-5.13,-6.89,6.25,14,65
 Gramicci,LIFESTYLE_CORE,queens,-6.81,-8.64,4.14,10,58
 Yerse,LIFESTYLE_CORE,nila,-19.7,-19.7,,1,3
 Carhartt WIP,ENTRY,queens,-6.61,-6.35,9.49,24,595
+Carhartt WIP,ENTRY,zalando,4.73,7.89,6.04,73,595
 Armedangels,ENTRY,nila,-9.27,-8.35,7.83,25,213
 Thinking MU,ENTRY,nila,-7.79,-7.79,,1,139
 Dickies,ENTRY,queens,3.82,5.06,2.57,7,32
 ENAMEL Copenhagen,ENTRY,nila,-11.14,-11.01,0.85,4,23
 PrintWorks,ENTRY,nila,6.89,7.01,12.29,3,8
 Organic Basics,BASICS,nila,-7.27,-7.27,0.0,3,92
+Organic Basics,BASICS,zalando,0.92,6.61,11.95,12,92
 Izipizi,BASICS,nila,12.84,11.9,2.11,5,37
 VONIAK,BASICS,queens,0.0,0.0,0.0,5,7

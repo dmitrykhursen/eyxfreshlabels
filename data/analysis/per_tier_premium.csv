@@ -1,9 +1,13 @@
 tier,competitor,mean_premium,median_premium,std_premium,n_products,n_brands
-PREMIUM,nila,-4.28,-7.21,7.44,13,3
 PREMIUM,queens,-0.14,-0.23,4.15,40,7
+PREMIUM,zalando,2.51,2.51,,1,1
+PREMIUM,nila,-4.28,-7.21,7.44,13,3
 LIFESTYLE_CORE,nila,-5.96,-5.97,6.91,8,2
+LIFESTYLE_CORE,zalando,1.11,-0.32,4.72,105,3
 LIFESTYLE_CORE,queens,1.96,2.46,6.89,103,3
 ENTRY,nila,-7.98,-8.35,8.87,33,4
+ENTRY,zalando,4.73,7.89,6.04,73,1
 ENTRY,queens,-4.25,-0.38,9.49,31,2
-BASICS,nila,5.3,11.9,10.53,8,2
 BASICS,queens,0.0,0.0,0.0,5,1
+BASICS,zalando,0.92,6.61,11.95,12,1
+BASICS,nila,5.3,11.9,10.53,8,2
